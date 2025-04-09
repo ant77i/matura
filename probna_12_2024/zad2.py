@@ -9,4 +9,4 @@ def F(x, p):
 
 
 for i in range(99, 0, -1):
-	if F(i, 3) == 0: print(i, F(i, 3))
+	if F(i, 4) == 0: print(i, F(i, 4))
