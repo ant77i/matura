@@ -1,0 +1,10 @@
+4.1
+    Najmniejsze pole = 10425
+    Największe pole = 1545605418
+4.2 
+    Ciąg 10 elementowy
+    Ostatnim elementem ciągu jest prostokąt o wysokości 1001 i szerokości 627
+4.3
+    2 prostokąty: 79506
+    3 prostokąty: 118786
+    5 prostokąty: 180895
